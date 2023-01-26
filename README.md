@@ -1,6 +1,6 @@
 ## 環境構築
 
-1. `docker build -t <任意のタグ名> .`でイメージをビルドする(ex. `docker build -t dog-vs-cat-vs-rabbit .`)
+1. `docker build -t <任意のタグ名> .`でイメージをビルドする(ex. `docker build -t voting-classifier-example .`)
 
 ## 実行方法
 
