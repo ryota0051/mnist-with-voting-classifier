@@ -1,0 +1,10 @@
+{
+  "name": "voting_classifier",
+  "forwardPorts": [8888],
+  "dockerFile": "../Dockerfile",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
